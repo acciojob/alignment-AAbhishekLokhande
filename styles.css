@@ -5,13 +5,13 @@ border-spacing: 1px;
 padding: 1px;
 }
 
-.middle-left{
+.left{
     text-align: left;
 }
-.middle-center{
+.center{
     text-align: center;
 }
-.middle-right{
+.right{
     text-align: right;
 }
 
