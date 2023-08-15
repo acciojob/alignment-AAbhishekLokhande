@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+.middle,tr,td{
+ border: 1px solid black;
+border-spacing: 1px;
+padding: 1px;
+}
+
+.middle-left{
+    text-align: left;
+}
+.middle-center{
+    text-align: center;
+}
+.middle-right{
+    text-align: right;
+}
+
+
+.middle-first{
+    background-color: blue;
+    text-align: center;
+}
+.middle-last{
+    text-align: center;
+    background-color: green;
+}
